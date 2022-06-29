@@ -1,2 +1,2 @@
-# kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends for Data Vis Bootcamp
+# An Analysis of Kickstarter Campaigns
+Performing analysis on Kickstarter data to uncover trends for Louise
